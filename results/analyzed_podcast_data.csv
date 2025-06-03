@@ -1,0 +1,101 @@
+user_id,episode_id,duration_seconds,title,category,age,gender,country,duration_minutes,age_group,engagement_level
+16,30,60,Episode 30,Sports,24,female,Saudi Arabia,1.0,18-25,Short
+6,8,120,Episode 8,Sports,59,male,Morocco,2.0,55+,Short
+6,13,60,Episode 13,Society,59,male,Morocco,1.0,55+,Short
+6,27,1500,Episode 27,News,59,male,Morocco,25.0,55+,Long
+17,9,1500,Episode 9,Sports,21,male,Saudi Arabia,25.0,18-25,Long
+14,23,300,Episode 23,Sports,19,female,Morocco,5.0,18-25,Short
+10,25,0,Episode 25,Sports,44,male,Jordan,0.0,36-45,No_Listen
+15,6,60,Episode 6,Society,42,male,UAE,1.0,36-45,Short
+12,27,1800,Episode 27,News,52,female,Jordan,30.0,46-55,Long
+3,1,60,Episode 1,Religion,42,male,Saudi Arabia,1.0,36-45,Short
+14,13,0,Episode 13,Society,19,female,Morocco,0.0,18-25,No_Listen
+12,24,120,Episode 24,Society,52,female,Jordan,2.0,46-55,Short
+17,6,0,Episode 6,Society,21,male,Saudi Arabia,0.0,18-25,No_Listen
+10,3,300,Episode 3,Society,44,male,Jordan,5.0,36-45,Short
+14,18,1800,Episode 18,News,19,female,Morocco,30.0,18-25,Long
+19,22,300,Episode 22,Society,42,male,Egypt,5.0,36-45,Short
+14,22,300,Episode 22,Society,19,female,Morocco,5.0,18-25,Short
+16,2,1800,Episode 2,Technology,24,female,Saudi Arabia,30.0,18-25,Long
+1,30,1800,Episode 30,Sports,38,female,Morocco,30.0,36-45,Long
+15,3,300,Episode 3,Society,42,male,UAE,5.0,36-45,Short
+19,12,60,Episode 12,Sports,42,male,Egypt,1.0,36-45,Short
+5,15,0,Episode 15,News,51,female,Jordan,0.0,46-55,No_Listen
+2,1,300,Episode 1,Religion,30,female,Jordan,5.0,26-35,Short
+1,8,1500,Episode 8,Sports,38,female,Morocco,25.0,36-45,Long
+5,30,1500,Episode 30,Sports,51,female,Jordan,25.0,46-55,Long
+18,29,1500,Episode 29,Sports,52,male,Saudi Arabia,25.0,46-55,Long
+5,13,300,Episode 13,Society,51,female,Jordan,5.0,46-55,Short
+10,3,1800,Episode 3,Society,44,male,Jordan,30.0,36-45,Long
+20,30,1500,Episode 30,Sports,32,female,Egypt,25.0,26-35,Long
+2,20,300,Episode 20,Society,30,female,Jordan,5.0,26-35,Short
+7,13,60,Episode 13,Society,30,male,Egypt,1.0,26-35,Short
+3,1,120,Episode 1,Religion,42,male,Saudi Arabia,2.0,36-45,Short
+11,29,0,Episode 29,Sports,41,male,Morocco,0.0,36-45,No_Listen
+2,19,0,Episode 19,Politics,30,female,Jordan,0.0,26-35,No_Listen
+10,13,1500,Episode 13,Society,44,male,Jordan,25.0,36-45,Long
+5,22,1500,Episode 22,Society,51,female,Jordan,25.0,46-55,Long
+5,28,120,Episode 28,News,51,female,Jordan,2.0,46-55,Short
+4,28,0,Episode 28,News,57,female,Egypt,0.0,55+,No_Listen
+12,6,120,Episode 6,Society,52,female,Jordan,2.0,46-55,Short
+8,7,300,Episode 7,Religion,45,female,Jordan,5.0,36-45,Short
+20,22,0,Episode 22,Society,32,female,Egypt,0.0,26-35,No_Listen
+5,12,900,Episode 12,Sports,51,female,Jordan,15.0,46-55,Medium
+17,6,120,Episode 6,Society,21,male,Saudi Arabia,2.0,18-25,Short
+14,17,900,Episode 17,Sports,19,female,Morocco,15.0,18-25,Medium
+20,1,1800,Episode 1,Religion,32,female,Egypt,30.0,26-35,Long
+18,1,300,Episode 1,Religion,52,male,Saudi Arabia,5.0,46-55,Short
+14,26,300,Episode 26,Technology,19,female,Morocco,5.0,18-25,Short
+3,14,300,Episode 14,Society,42,male,Saudi Arabia,5.0,36-45,Short
+16,11,60,Episode 11,Sports,24,female,Saudi Arabia,1.0,18-25,Short
+2,11,1500,Episode 11,Sports,30,female,Jordan,25.0,26-35,Long
+8,28,300,Episode 28,News,45,female,Jordan,5.0,36-45,Short
+19,28,60,Episode 28,News,42,male,Egypt,1.0,36-45,Short
+8,29,900,Episode 29,Sports,45,female,Jordan,15.0,36-45,Medium
+3,20,1500,Episode 20,Society,42,male,Saudi Arabia,25.0,36-45,Long
+20,7,60,Episode 7,Religion,32,female,Egypt,1.0,26-35,Short
+18,10,0,Episode 10,News,52,male,Saudi Arabia,0.0,46-55,No_Listen
+6,16,1800,Episode 16,Politics,59,male,Morocco,30.0,55+,Long
+11,24,1800,Episode 24,Society,41,male,Morocco,30.0,36-45,Long
+8,5,0,Episode 5,Politics,45,female,Jordan,0.0,36-45,No_Listen
+6,3,900,Episode 3,Society,59,male,Morocco,15.0,55+,Medium
+19,5,60,Episode 5,Politics,42,male,Egypt,1.0,36-45,Short
+9,24,1500,Episode 24,Society,43,female,Egypt,25.0,36-45,Long
+6,21,300,Episode 21,Society,59,male,Morocco,5.0,55+,Short
+19,16,300,Episode 16,Politics,42,male,Egypt,5.0,36-45,Short
+20,29,300,Episode 29,Sports,32,female,Egypt,5.0,26-35,Short
+9,8,300,Episode 8,Sports,43,female,Egypt,5.0,36-45,Short
+1,22,900,Episode 22,Society,38,female,Morocco,15.0,36-45,Medium
+16,8,900,Episode 8,Sports,24,female,Saudi Arabia,15.0,18-25,Medium
+20,6,60,Episode 6,Society,32,female,Egypt,1.0,26-35,Short
+15,8,1800,Episode 8,Sports,42,male,UAE,30.0,36-45,Long
+8,24,1500,Episode 24,Society,45,female,Jordan,25.0,36-45,Long
+12,7,0,Episode 7,Religion,52,female,Jordan,0.0,46-55,No_Listen
+12,2,0,Episode 2,Technology,52,female,Jordan,0.0,46-55,No_Listen
+14,27,1800,Episode 27,News,19,female,Morocco,30.0,18-25,Long
+18,20,60,Episode 20,Society,52,male,Saudi Arabia,1.0,46-55,Short
+9,14,1500,Episode 14,Society,43,female,Egypt,25.0,36-45,Long
+6,4,60,Episode 4,News,59,male,Morocco,1.0,55+,Short
+2,23,1800,Episode 23,Sports,30,female,Jordan,30.0,26-35,Long
+4,14,60,Episode 14,Society,57,female,Egypt,1.0,55+,Short
+15,4,1800,Episode 4,News,42,male,UAE,30.0,36-45,Long
+6,28,60,Episode 28,News,59,male,Morocco,1.0,55+,Short
+7,27,300,Episode 27,News,30,male,Egypt,5.0,26-35,Short
+18,6,900,Episode 6,Society,52,male,Saudi Arabia,15.0,46-55,Medium
+11,25,900,Episode 25,Sports,41,male,Morocco,15.0,36-45,Medium
+15,7,900,Episode 7,Religion,42,male,UAE,15.0,36-45,Medium
+7,25,120,Episode 25,Sports,30,male,Egypt,2.0,26-35,Short
+16,16,0,Episode 16,Politics,24,female,Saudi Arabia,0.0,18-25,No_Listen
+10,9,60,Episode 9,Sports,44,male,Jordan,1.0,36-45,Short
+17,9,120,Episode 9,Sports,21,male,Saudi Arabia,2.0,18-25,Short
+16,27,1800,Episode 27,News,24,female,Saudi Arabia,30.0,18-25,Long
+2,9,900,Episode 9,Sports,30,female,Jordan,15.0,26-35,Medium
+15,26,300,Episode 26,Technology,42,male,UAE,5.0,36-45,Short
+3,29,120,Episode 29,Sports,42,male,Saudi Arabia,2.0,36-45,Short
+7,29,1800,Episode 29,Sports,30,male,Egypt,30.0,26-35,Long
+2,6,300,Episode 6,Society,30,female,Jordan,5.0,26-35,Short
+16,28,900,Episode 28,News,24,female,Saudi Arabia,15.0,18-25,Medium
+19,9,60,Episode 9,Sports,42,male,Egypt,1.0,36-45,Short
+12,2,1500,Episode 2,Technology,52,female,Jordan,25.0,46-55,Long
+1,1,1800,Episode 1,Religion,38,female,Morocco,30.0,36-45,Long
+15,16,900,Episode 16,Politics,42,male,UAE,15.0,36-45,Medium
